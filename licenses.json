@@ -1,7 +1,1 @@
-{
-  "ADMIN": {
-    "expires": null,
-    "blocked": false,
-    "note": "admin"
-  }
-}
+"ADMIN": { "expires": null, "blocked": false, "note": "admin" }
