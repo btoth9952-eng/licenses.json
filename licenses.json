@@ -1,4 +1,6 @@
 {
-  "ABCD1234EFGH": { "expires": "2026-12-31T23:59:59Z", "blocked": false, "note": "teszt" },
-  "ADMIN": { "expires": null, "blocked": false, "note": "admin" }
+  "users": [
+    { "username": "b.toth9952@gmail.com", "password": "MTDigital2002", "displayName": "Bence Tóth", "role": "Admin" },
+    { "username": "muranyi.gergo97@gmail.com", "password": "MTDigital1997", "displayName": "Gergő Murányi", "role": "Admin" }
+  ]
 }
